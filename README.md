@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./Banner.png" alt="Abdullatif Visuals Banner" width="100%">
 </p>
-## 👋 Hi, I'm Shah Md Abdul Latif
+<h1 align="center">👋 Hi, I'm Shah Md Abdul Latif</h1>
 
 <h3 align="center">🎬 AI Video Creator | Professional Video Editor | YouTube Automation Specialist</h3>
 
